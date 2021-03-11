@@ -1,6 +1,0 @@
-framework module Pods_InChurch {
-  umbrella header "Pods-InChurch-umbrella.h"
-
-  export *
-  module * { export * }
-}
